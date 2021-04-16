@@ -1,5 +1,5 @@
 Authors:
-Dongqi Pu(2687343),XXX(XXX),XXX(XXX)
+Dongqi Pu(2687343),Wenxin Chen(2610585),Siddharth Chaubal(2698570)
 
 1.For PartA, you can run PartA.py (in the Analyzing Language folder) directly to get the corresponding answer. 
 
